@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\bin\Debug\Exercise.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\bin\Debug\Exercise.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\bin\Debug\Exercise.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\bin\Debug\Exercise.xml
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\obj\Debug\Exercise.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\obj\Debug\Exercise.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\obj\Debug\Exercise.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\obj\Debug\Exercise.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\obj\Debug\Exercise.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\obj\Debug\Exercise.xml
+c:\users\user\documents\visual studio 2015\Projects\Exercise\Exercise\obj\Debug\Exercise.pdb
